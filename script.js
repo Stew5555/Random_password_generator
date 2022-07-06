@@ -1,6 +1,11 @@
 // Assignment code here
 
 
+function generatePassword() {
+  prompt("how ong is your password?")
+  return ("") 
+}
+
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
